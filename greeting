@@ -1,0 +1,14 @@
+def greeting
+    puts "Hello, Kyle!"
+end
+
+greeting
+
+def new_greeting(name)
+    user_name = "Julia"
+    Puts "Hello, " + name + "!"
+end
+
+new_greeting("Julia!")
+new_greeting("Bill!")
+new_greeting("...Stewart.")

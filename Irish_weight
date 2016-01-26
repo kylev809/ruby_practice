@@ -1,0 +1,5 @@
+Puts "Ay Laddy, how muny stones you have?"
+print "Enter weight in lbs > "
+weight_lbs = get.chomp.to_i
+weight_lbs =weight_stones / 14
+puts "Your stones are" + weight_lbs.to_s
