@@ -1,3 +1,4 @@
+#grades r 4 fascists!
 scores = [100, 80,93, 87, 94]
 
 sum_scores = 0
